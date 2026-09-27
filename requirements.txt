@@ -1,0 +1,44 @@
+# ============================================================
+#  Online Food Delivery Dataset — Requirements
+#  Project : Data Cleaning & Exploratory Data Analysis
+#  Program : MCA Internship
+#  Python  : 3.11+
+# ============================================================
+
+# ------------------------------------------------------------
+# CORE DEPENDENCIES
+# This project uses ONLY Python standard library modules.
+# No third-party packages are required to run the main script.
+#
+# Modules used (all built-in):
+#   csv         — reading and writing CSV files
+#   collections — Counter, defaultdict for frequency analysis
+#   re          — regex validation (pin codes, lat/lon)
+#   os          — file path operations
+# ------------------------------------------------------------
+
+# No packages to install — run directly with Python 3.11+:
+#   python clean_food_dataset.py
+
+
+# ------------------------------------------------------------
+# OPTIONAL — for extended analysis / visualisation
+# Uncomment and install if you want to build charts or run
+# machine learning models on the cleaned dataset.
+# ------------------------------------------------------------
+
+# Data manipulation
+# pandas>=2.0.0
+
+# Data visualisation
+# matplotlib>=3.7.0
+# seaborn>=0.12.0
+
+# Machine learning (predict ordering behaviour)
+# scikit-learn>=1.3.0
+
+# Jupyter notebooks
+# notebook>=7.0.0
+
+# Install all optional packages at once:
+#   pip install pandas matplotlib seaborn scikit-learn notebook
